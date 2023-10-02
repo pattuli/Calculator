@@ -129,7 +129,7 @@ class HomePage extends StatelessWidget {
             alignment: Alignment.bottomRight,
             child: Text(controller.output,
                 style: TextStyle(
-                    color: Color.fromARGB(255, 29, 28, 28), fontSize: 32)),
+                    color: Color.fromARGB(255, 211, 8, 8), fontSize: 32)),
           ),
         ],
       ),
